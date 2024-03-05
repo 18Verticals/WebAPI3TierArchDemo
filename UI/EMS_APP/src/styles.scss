@@ -1,0 +1,10 @@
+@import 'ngx-toastr/toastr';
+/* You can add global styles to this file, and also import other style files */
+.cursor-pointer{
+    cursor: pointer !important;
+}
+.fa:hover{
+    opacity: 0.6;
+}
+/* Importing Bootstrap SCSS file. */
+@import 'bootstrap/scss/bootstrap';
